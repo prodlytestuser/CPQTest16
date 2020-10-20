@@ -1,3 +1,5 @@
 "Guid","AccountId","Comments","ContactId","Description","IsEscalated","Origin","Priority","Reason","Status","Subject","SuppliedCompany","SuppliedEmail","SuppliedName","SuppliedPhone","Type"
 198cd07c-ae41-418b-abed-b27414310202,409f6d36-6361-4a2b-ae31-83e4d4a8d05c,"#N/A",4bc84ae5-06fd-4fc7-9d2f-6bb5732efdcb,"#N/A",false,Email,Medium,"#N/A",New,Test,"#N/A","#N/A","#N/A","#N/A","#N/A"
-98ac6eff-de06-404b-85c7-d6c431205587,cd82d5b4-54c1-48b1-bc11-4e5ae2104f28,"#N/A",942dc93b-109e-4fd4-955a-1b98942dfaa5,"#N/A",false,Phone,Medium,User didn't attend training,New,"#N/A","#N/A","#N/A","#N/A","#N/A",Problem
+98ac6eff-de06-404b-85c7-d6c431205587,"#N/A","#N/A","#N/A","#N/A",false,Phone,Medium,User didn't attend training,New,"#N/A","#N/A","#N/A","#N/A","#N/A",Problem
+b02db71f-8821-4995-8f82-3c1dbddf3caf,27fa3e35-f789-4ea9-95d8-5da374d1ccf8,"#N/A",6c17f0e7-dc26-4372-8346-8d489e4a6456,"#N/A",false,Phone,Medium,User didn't attend training,New,"#N/A","#N/A","#N/A","#N/A","#N/A",Problem
+ed886a0c-7810-4887-9f83-3abc49fbde6c,84c183c4-c503-4417-976c-d3f3360b7ebe,"#N/A",d1361dec-4d8b-4911-8683-6a75c2b79533,"#N/A",false,Email,Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
