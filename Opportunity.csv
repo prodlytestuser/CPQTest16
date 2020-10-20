@@ -1,3 +1,3 @@
 "Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type"
-0034bbc2-7bb2-4f98-a7e6-36d8489ff660,95d40e43-c7e8-4fe1-a0ad-c0428c9edc7a,100000.0,2020-10-20,"#N/A","#N/A",Pipeline,"#N/A",Golden Opprotunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,Existing Business
-21c3a2c3-76c4-4d04-87db-aaed4b6088e5,0aeab24a-b146-4744-863b-4d0b205d34a0,20000.0,2020-10-20,"#N/A","#N/A",Pipeline,Web,Test opportunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,Existing Business
+473b5a81-7575-4d8f-88b3-bc9c2400f64c,cd82d5b4-54c1-48b1-bc11-4e5ae2104f28,20000.0,2020-10-20,"#N/A","#N/A",Pipeline,Web,Test opportunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,Existing Business
+b63ddd69-ded3-4d44-8eda-d29ef07d3ed7,409f6d36-6361-4a2b-ae31-83e4d4a8d05c,100000.0,2020-10-20,"#N/A","#N/A",Pipeline,"#N/A",Golden Opprotunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,Existing Business
